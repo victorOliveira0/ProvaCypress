@@ -19,8 +19,8 @@ npx cypress open
 
 # Funcionalidades 
 
-
+https://github.com/victorOliveira0/ProvaCypress/tree/main/cypress
 
 # Casos de teste BDD
 
-
+https://github.com/victorOliveira0/ProvaCypress/tree/main/features
